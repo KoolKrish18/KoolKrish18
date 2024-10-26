@@ -18,30 +18,29 @@ Welcome to my GitHub! I’m a Computer Science student at the University of Toro
 ### Languages
 # 👋 Hey there, I'm Krish Nalam!
 
----
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 
-## 🛠️ Tech Stack
+|[<img align="left" src="https://github-readme-stats.vercel.app/api?username=r-chong&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="300" />](#)|[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-chong&hide_border=true&layout=compact&theme=github_dark" width="250"/>](#)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,express,tailwind,java,firebase,mongodb,html,css&perline=18)](https://github.com/r-chong "JavaScript, TypeScript, React JS, Next JS, Python, Node, Express, Tailwind, Python, Java, Firebase, MongoDB, HTML, CSS")
 
 ### Languages
-<img width="40" height="40" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgaWQ9Imh0bWw1Ij48ZyBpZD0iaHRtbF81Ij48cGF0aCBpZD0iVmVjdG9yIiBkPSJNMTQuMDIxNCA5MC4wMzQ1TDYgMC4wMDA0ODgyODFIOTk0LjE4NjdMODYuMTY1MyA4OS45ODU5TDUwLjAyMDQgMTAwIiBmaWxsPSIjRTQ0RDI2Ii8+PHBhdGggaWQ9IlZlY3Rvcl8yIiBkPSJNNTAuMDkzIDkyLjM0NDVWNy4zOTA2Mkg4Ni4xNDA3TDc5LjI2MTcgODQuMjAxNSIgZmlsbD0iI0YxNjUyOSIvPjxwYXRoIGlkPSJWZWN0b3JfMyIgZD0iTTIyLjM4MzEgMTguNDAxNEg1MC4wOTMzVjI5LjQzNjlIMzQuNDg4MUwzNS41MDkgNDAuNzM5N0g1MC4wOTMzVjUxLjc1MDlIMjUuMzk3MkwyMi4zODMxIDE4LjQwMTRaTTI1Ljg4MzMgNTcuMjkzSDM2Ljk2NzRMMzcuNzQ1MiA2Ni4xMTY1TDUwLjA5MzMgNjkuNDIyM1Y4MC45NDM5TDI3LjQzOSA3NC42MjQiIGZpbGw9IiNFQkVCRUIiLz48cGF0aCBpZD0iVmVjdG9yXzQiIGQ9Ik03Ny43MDU4IDE4LjQwMTRINTAuMDQ0MlYyOS40MzY5SDc2LjY4NDlMNzcuNzA1OCAxOC40MDE0Wk03NS42ODgzIDQwLjczOTdINTAuMDQ0MlY1MS43NzUySDYzLjY1NjJMNjIuMzY4IDY2LjExNjVMNTAuMDQ0MiA2OS40MjIzVjgwLjg5NTNMMjcuNjQ5OSA3NC42MjQiIGZpbGw9IndoaXRlIi8+PC9nPjwvZz48L3N2Zz4=" alt="HTML5 logo" />
-
-![JavaScript]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png
-))
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<img src="https://cdn.tech-stack-icons.com/icons/python.svg" alt="Python" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/html5.svg" alt="HTML5" width="40" height="40" />
 
 ### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flask]([https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-FF3366?style=flat&logo=apache-spark&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<img src="https://cdn.tech-stack-icons.com/icons/react.svg" alt="React" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/nextjs.svg" alt="Next.js" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/flask.svg" alt="Flask" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /> 
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat&logo=google-sheets&logoColor=white)
+<img src="https://cdn.tech-stack-icons.com/icons/github.svg" alt="GitHub" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/mongodb.svg" alt="MongoDB" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/figma.svg" alt="Figma" width="40" height="40" /> 
+<img src="https://cdn.tech-stack-icons.com/icons/googlesheets.svg" alt="Google Sheets" width="40" height="40" />
 
 ---
 
