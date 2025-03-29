@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Krish Nalam!
-A **full-stack developer**, based in Toronto, passionate about 3D design, AI and software developement
+A **full-stack developer**, based in Toronto, passionate about 3D design, AI and software developement.
 Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 
 ## 🛠️ Tech Stack
