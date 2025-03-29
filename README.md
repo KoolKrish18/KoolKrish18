@@ -1,9 +1,6 @@
 # 👋 Hey there, I'm Krish Nalam!
 A **full-stack developer**, based in Toronto, passionate about 3D design, AI and software developement
-- 💡 Currently learning and using **TypeScript & SQL**
-- 🎓 Studying **Computer Science** at the University of Toronto
-- 🔍 Always curious to learn and try new tools and languages
-- 💼 Visit my **[Portfolio](https://krishnalam.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/krish-nalam/)** to get to know me more! :)
+Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
